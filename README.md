@@ -2,7 +2,7 @@
 
 In this repository, you will find my solutions to the assignments given in the course [CS231n](http://cs231n.stanford.edu/) from Stanford University (Spring 2021).
 
-I learned everything from [YouTube](https://www.youtube.com/playlist?list=PLC1qU-LWwrF64f4QKQT-Vg5Wr4qEE1Zxk). Of course, there are things you cannot find any explanation about, like recently invented concepts in the video, but you can learn them by referring to public slides uploaded on this [page](https://cs231n.github.io/).
+I learned everything from [YouTube](https://www.youtube.com/playlist?list=PLC1qU-LWwrF64f4QKQT-Vg5Wr4qEE1Zxk). Of course, there are some things that you cannot find any explanation about in the videos, like recently invented concepts, but you can learn them by referring to public slides uploaded on this [page](https://cs231n.github.io/).
 
 
 ## Assignment1
