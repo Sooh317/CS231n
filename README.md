@@ -1,4 +1,4 @@
-# CS231n solutions 
+# CS231n answers (Spring 2021) 
 
 In this repository, you will find my solutions to the assignments given in the course [CS231n](http://cs231n.stanford.edu/) from Stanford University (Spring 2021).
 
